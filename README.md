@@ -1,6 +1,6 @@
 # College Runner
-
-## Kelompok 12:
+Kelompok 12 Grafika Komputer
+## Anggota Kelompok
 <table>
     <thead>
         <tr>
