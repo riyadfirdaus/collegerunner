@@ -1,5 +1,6 @@
 # College Runner
-Kelompok 12 Grafika Komputer
+#### Kelompok 12 Grafika Komputer
+<a href="figma.com/file/eK1XkQREKoXvFXsXKZScuc/College-Runner?node-id=5%3A6171">Figma</a>  |  <a href="docs.google.com/document/d/1UUofKxUKvyo7B6_ImynttXJLDn2afAJcMqCUppZRljo/edit1">G-Docs</a>
 ## Anggota Kelompok
 <table>
     <thead>
@@ -43,4 +44,6 @@ Game ini menceritakan tentang mahasiswa yang kesiangan dan telat masuk kelas. Un
 - Ada batasan waktu untuk setiap stagenya
 - Player bisa mendapat power-up untuk membantu mencapai goals
 - Terdapat rintangan yang perlu dilalui player. Rintangan tersebut dapat mengurangi kecepatan player dalam berlari ataupun mengurangi waktu
+
+## Dokumentasi
 
