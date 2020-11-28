@@ -47,6 +47,3 @@ Game ini menceritakan tentang mahasiswa yang kesiangan dan telat masuk kelas. Un
 - Ada batasan waktu untuk setiap stagenya
 - Player bisa mendapat power-up untuk membantu mencapai goals
 - Terdapat rintangan yang perlu dilalui player. Rintangan tersebut dapat mengurangi kecepatan player dalam berlari ataupun mengurangi waktu
-
-## Dokumentasi
-
