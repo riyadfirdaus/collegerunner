@@ -33,7 +33,7 @@
 </table>
 <table>
     <th><a href="https://www.figma.com/file/eK1XkQREKoXvFXsXKZScuc/College-Runner?node-id=5%3A6171" target="_blank">Figma</a></th>
-    <th><a href="docs.google.com/document/d/1UUofKxUKvyo7B6_ImynttXJLDn2afAJcMqCUppZRljo/edit1" target="_blank">G-Docs</a></th>
+    <th><a href="https://docs.google.com/document/d/1UUofKxUKvyo7B6_ImynttXJLDn2afAJcMqCUppZRljo/edit?usp=sharing" target="_blank">G-Docs</a></th>
 </table>
 
 ## Story
