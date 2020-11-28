@@ -1,7 +1,6 @@
 # College Runner
-#### Kelompok 12 Grafika Komputer
-<a href="figma.com/file/eK1XkQREKoXvFXsXKZScuc/College-Runner?node-id=5%3A6171">Figma</a>  |  <a href="docs.google.com/document/d/1UUofKxUKvyo7B6_ImynttXJLDn2afAJcMqCUppZRljo/edit1">G-Docs</a>
-## Anggota Kelompok
+## Kelompok 12 - Grafika Komputer
+#### Anggota Kelompok
 <table>
     <thead>
         <tr>
@@ -31,6 +30,10 @@
             <td>Programmer</td>
       </tr>
   </tbody>
+</table>
+<table>
+    <th><a href="figma.com/file/eK1XkQREKoXvFXsXKZScuc/College-Runner?node-id=5%3A6171">Figma</a></th>
+    <th><a href="docs.google.com/document/d/1UUofKxUKvyo7B6_ImynttXJLDn2afAJcMqCUppZRljo/edit1">G-Docs</a></th>
 </table>
 
 ## Story
