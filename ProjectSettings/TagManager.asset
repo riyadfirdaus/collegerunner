@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Spikes
+  - Land
   layers:
   - Default
   - TransparentFX
@@ -13,7 +16,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Ground
   - 
   - 
   - 
@@ -46,6 +49,9 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 587128335
+    locked: 0
+  - name: Rintangan
+    uniqueID: 375545227
     locked: 0
   - name: Player
     uniqueID: 2552320663
